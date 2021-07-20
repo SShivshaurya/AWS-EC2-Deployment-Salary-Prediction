@@ -1,0 +1,11 @@
+1. Flask Code
+2. Run and check in Local
+3. Create AWS account
+4. Create EC2 instance
+5. Download putty and putty gen
+6. Generate private key with putty gen
+7. Download FileZilla
+8. Update the port in Flask code
+9. Install the libraries by connecting through putty
+10. python3 app.py
+11. Get Web url from EC2 and verify it 
